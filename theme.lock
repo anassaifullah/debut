@@ -2,7 +2,7 @@
 assets/ajax-loader.gif:
   development: 2018-06-13T13:46:50+07:00   deca8b0ecd6974227d157b6d7068995d
 assets/custom.scss.liquid:
-  development: 2018-06-13T01:50:05-06:00   48a5c1f23f5003183bb3b2a2cc32489e
+  development: 2018-06-13T02:11:27-06:00   917823c12f0d222392d710f8ed909c29
 assets/gift-card.js:
   development: 2018-06-13T13:46:50+07:00   5f64ba6cb76fbcd82773489d51785bf1
 assets/gift-card.scss.liquid:
@@ -22,7 +22,7 @@ assets/theme.scss.liquid:
 assets/vendor.js:
   development: 2018-06-13T13:46:52+07:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
-  development: 2018-06-13T01:34:06-06:00   2cb176d18e375a89413c2963a7bd3ec9
+  development: 2018-06-13T03:16:18-06:00   aecfa678170f9ae30c5ad1c1f27e1536
 config/settings_schema.json:
   development: 2018-06-13T13:46:56+07:00   f436f52fd025dadb4f9e380cb9d81906
 layout/gift_card.liquid:
@@ -92,7 +92,7 @@ sections/password-footer.liquid:
 sections/password-header.liquid:
   development: 2018-06-13T13:46:49+07:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
-  development: 2018-06-13T13:46:49+07:00   ee6b6c4afe3a1b38ffd2d48f3cdbc0c8
+  development: 2018-06-13T02:11:37-06:00   e5b9de00251429d49bdf3c7ec487e543
 sections/quotes.liquid:
   development: 2018-06-13T13:46:49+07:00   70e88d0bab28637bf601aeaf50b6836c
 sections/rich-text.liquid:
