@@ -22,7 +22,7 @@ assets/theme.scss.liquid:
 assets/vendor.js:
   development: 2018-06-13T13:46:52+07:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
-  development: 2018-06-13T03:16:18-06:00   aecfa678170f9ae30c5ad1c1f27e1536
+  development: 2018-06-13T22:54:47-06:00   37806db10129453090e5272de6caf319
 config/settings_schema.json:
   development: 2018-06-13T13:46:56+07:00   f436f52fd025dadb4f9e380cb9d81906
 layout/gift_card.liquid:

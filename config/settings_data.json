@@ -33,9 +33,9 @@
     "social_vimeo_link": "",
     "favicon": "shopify:\/\/shop_images\/favicon.png",
     "checkout_header_image": "",
-    "checkout_logo_image": "",
-    "checkout_logo_position": "left",
-    "checkout_logo_size": "medium",
+    "checkout_logo_image": "shopify:\/\/shop_images\/checkout-logo.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
     "checkout_body_background_image": "",
     "checkout_body_background_color": "#fff",
     "checkout_input_background_color_mode": "white",
@@ -169,16 +169,6 @@
               "link": ""
             }
           },
-          "1528880900287": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/money-saving-bank.jpg",
-              "alignment": "top",
-              "title": "No Sales Tax",
-              "subheading": "Sales tax can be expensive, but when you purchase from NopeLess you pay ZERO sales tax.",
-              "link": ""
-            }
-          },
           "1528881028393": {
             "type": "image",
             "settings": {
@@ -188,13 +178,23 @@
               "subheading": "We think you deserve this attention to detail so you can feel confident with your purchase.",
               "link": ""
             }
+          },
+          "1528880900287": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/money-saving-bank.jpg",
+              "alignment": "top",
+              "title": "No Sales Tax",
+              "subheading": "Sales tax can be expensive, but when you purchase from NopeLess you pay ZERO sales tax.",
+              "link": ""
+            }
           }
         },
         "block_order": [
           "1528880646987-0",
           "1528880646987-1",
-          "1528880900287",
-          "1528881028393"
+          "1528881028393",
+          "1528880900287"
         ],
         "settings": {
           "autoplay": true,
