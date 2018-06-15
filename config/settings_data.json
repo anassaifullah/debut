@@ -70,7 +70,7 @@
           "grid": 4,
           "rows": 2,
           "show_vendor": false,
-          "show_view_all": true
+          "show_view_all": false
         }
       },
       "footer": {
@@ -143,7 +143,7 @@
       "cart-template": {
         "type": "cart-template",
         "settings": {
-          "cart_notes_enable": false
+          "cart_notes_enable": true
         }
       },
       "1528880646987": {
