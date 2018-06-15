@@ -22,7 +22,7 @@ assets/theme.scss.liquid:
 assets/vendor.js:
   development: 2018-06-13T13:46:52+07:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
-  development: 2018-06-13T22:54:47-06:00   37806db10129453090e5272de6caf319
+  development: 2018-06-14T22:17:24-06:00   f2f5564898d048b528e1aabe8f3e230b
 config/settings_schema.json:
   development: 2018-06-13T13:46:56+07:00   f436f52fd025dadb4f9e380cb9d81906
 layout/gift_card.liquid:
@@ -52,7 +52,7 @@ sections/article-template.liquid:
 sections/blog-template.liquid:
   development: 2018-06-13T13:46:48+07:00   b271843a318751c33bb4804eee7c1479
 sections/cart-template.liquid:
-  development: 2018-06-13T13:46:48+07:00   4f69dd16b97a295881fd57a6cc511fbf
+  development: 2018-06-14T22:21:50-06:00   4f69dd16b97a295881fd57a6cc511fbf
 sections/collection-list.liquid:
   development: 2018-06-13T13:46:48+07:00   52e8d8f67436376a7898e66e01e3093a
 sections/collection-template.liquid:
