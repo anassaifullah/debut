@@ -234,8 +234,8 @@
   </script>
 
   <script type="text/javascript">
-    var minDays = 7;
-    var maxDays = 21;
+    var minDays = {{ settings.est_delivery_min_days }};
+    var maxDays = {{ settings.est_delivery_max_days }};
 
     var estimatedDeliveryMin = new Date;
     var estimatedDeliveryMax = new Date;

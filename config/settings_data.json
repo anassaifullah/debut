@@ -32,6 +32,8 @@
     "social_youtube_link": "",
     "social_vimeo_link": "",
     "favicon": "shopify:\/\/shop_images\/favicon.png",
+    "est_delivery_min_days": "7",
+    "est_delivery_max_days": "21",
     "checkout_header_image": "",
     "checkout_logo_image": "shopify:\/\/shop_images\/checkout-logo.png",
     "checkout_logo_position": "center",

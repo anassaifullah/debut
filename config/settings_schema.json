@@ -489,5 +489,32 @@
         }
       }
     ]
+  },
+  {
+    "name": {
+      "en": "Estimated Delivery"
+    },
+    "settings": [
+      {
+        "type": "text",
+        "id": "est_delivery_min_days",
+        "label": {
+          "en": "Min Days"
+        },
+        "info": {
+          "en": "Minimum Delivery Days"
+        }
+      },
+      {
+        "type": "text",
+        "id": "est_delivery_max_days",
+        "label": {
+          "en": "Max Days"
+        },
+        "info": {
+          "en": "Maximum Delivery Days"
+        }
+      }
+    ]
   }
 ]
