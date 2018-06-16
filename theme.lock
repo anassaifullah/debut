@@ -30,7 +30,7 @@ layout/gift_card.liquid:
 layout/password.liquid:
   development: 2018-06-13T13:46:52+07:00   33633e5bb77c086ac3dc468153bcea2e
 layout/theme.liquid:
-  development: 2018-06-13T01:49:21-06:00   dc426e51b4947c256e23ffe3a0a9fc47
+  development: 2018-06-16T02:28:42-06:00   00106d8e8c52826cf65c8bb327ca31f3
 locales/de.json:
   development: 2018-06-13T13:46:52+07:00   faabf64e5370b2689d001b57ec4d4d1d
 locales/en.default.json:
@@ -266,6 +266,6 @@ templates/page.liquid:
 templates/password.liquid:
   development: 2018-06-13T13:46:56+07:00   30d1743d26765ce8c3fa53a3fdf9524f
 templates/product.liquid:
-  development: 2018-06-13T13:46:56+07:00   a8b973ec94163b15351915497eec8df8
+  development: 2018-06-16T02:28:41-06:00   c2b8668907fb03d16c63427df4b0f932
 templates/search.liquid:
   development: 2018-06-13T13:46:56+07:00   4708878fcc44c64f149120b120b05115
