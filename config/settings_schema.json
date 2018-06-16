@@ -516,5 +516,17 @@
         }
       }
     ]
+  },
+  {
+    "name": {
+      "en": "GEO IP"
+    },
+    "settings": [
+      {
+        "type": "text",
+        "id": "ipstack_api_key",
+        "label": "IP Stack API Key"
+      }
+    ]
   }
 ]

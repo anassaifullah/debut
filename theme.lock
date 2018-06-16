@@ -33,10 +33,10 @@ assets/vendor.js:
   development: 2018-06-16T03:28:29-06:00   465fb5b94497c1cdcd55ba6cb04ffeb2
   production: 2018-06-13T00:46:52-06:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
-  development: 2018-06-16T06:51:04-06:00   d4467f800578246bafe2d691149434be
+  development: 2018-06-16T07:06:03-06:00   7767491ec495c87fb03f7771305bca93
   production: 2018-06-16T06:51:38-06:00   d4467f800578246bafe2d691149434be
 config/settings_schema.json:
-  development: 2018-06-16T06:46:24-06:00   f2cd798a12d5d321b628419b48b8e5d1
+  development: 2018-06-16T07:05:41-06:00   8fec3d68949483285d9d1b2ca58a7ea9
   production: 2018-06-16T06:51:36-06:00   f2cd798a12d5d321b628419b48b8e5d1
 layout/gift_card.liquid:
   development: 2018-06-16T03:28:29-06:00   cf060607763db717a273bdf367f38403
@@ -158,6 +158,8 @@ snippets/collection-grid-item.liquid:
 snippets/comment.liquid:
   development: 2018-06-16T03:28:30-06:00   50406c82467014e1bbe15a62685b2536
   production: 2018-06-13T00:46:53-06:00   50406c82467014e1bbe15a62685b2536
+snippets/geo.liquid:
+  development: 2018-06-16T07:05:41-06:00   6880265ffa4c3e4c78d37b92114bec16
 snippets/icon-amazon_payments.liquid:
   development: 2018-06-16T03:28:30-06:00   f1ad8ba26dd5b98117703ede5357e408
   production: 2018-06-13T00:46:53-06:00   f1ad8ba26dd5b98117703ede5357e408
