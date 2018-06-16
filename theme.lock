@@ -3,8 +3,8 @@ assets/ajax-loader.gif:
   development: 2018-06-16T03:28:27-06:00   deca8b0ecd6974227d157b6d7068995d
   production: 2018-06-13T00:46:50-06:00   deca8b0ecd6974227d157b6d7068995d
 assets/custom.scss.liquid:
-  development: 2018-06-16T04:14:52-06:00   71edb7977806aabb860e933ee667d170
-  production: 2018-06-16T04:16:19-06:00   71edb7977806aabb860e933ee667d170
+  development: 2018-06-16T05:41:35-06:00   2b63f3cefa6c0bcaf548ebc19d547baf
+  production: 2018-06-16T05:41:56-06:00   2b63f3cefa6c0bcaf548ebc19d547baf
 assets/gift-card.js:
   development: 2018-06-16T03:28:27-06:00   5f64ba6cb76fbcd82773489d51785bf1
   production: 2018-06-13T00:46:50-06:00   5f64ba6cb76fbcd82773489d51785bf1
@@ -138,8 +138,8 @@ sections/password-header.liquid:
   development: 2018-06-16T03:28:26-06:00   71d055e33d7b32bbd41d53eb6afd59f1
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
-  development: 2018-06-16T04:12:19-06:00   c798fc428622d4bfd1c333c3002b6e38
-  production: 2018-06-16T04:15:45-06:00   c798fc428622d4bfd1c333c3002b6e38
+  development: 2018-06-16T05:12:09-06:00   25c38bd07764c0361b42ebe41f700cae
+  production: 2018-06-16T05:15:13-06:00   25c38bd07764c0361b42ebe41f700cae
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
   production: 2018-06-16T04:16:09-06:00   70e88d0bab28637bf601aeaf50b6836c

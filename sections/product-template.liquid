@@ -11,10 +11,10 @@
   {%- assign product_image_zoom_size = '1024x1024' -%}
   {%- assign product_image_scale = '2' -%}
   {%- assign enable_zoom = section.settings.enable_zoom -%}
+  {%- assign price = current_variant.price -%}
   {%- assign compare_at_price = current_variant.compare_at_price -%}
   {%- assign saved_amount = current_variant.compare_at_price | minus: current_variant.price -%}
   {%- assign saved_percent = current_variant.compare_at_price | minus: current_variant.price | times: 100.0 | divided_by: current_variant.compare_at_price | round -%}
-  {%- assign price = current_variant.price -%}
 
   {% case section.settings.image_size %}
     {% when 'small' %}
@@ -182,6 +182,24 @@
           role="status"
         ></p>
 
+        {% comment %} START Promise List {% endcomment %}
+        <hr class="promises-devider"/>
+        <div class="promises-list">
+          <div class="promise shipping-policy">
+            <div class="promise__label">Shipping:</div>
+            <div class="promise__content">
+              <div><span class="emphasize">FREE</span> Standard Shipping to the United States</div>
+              <div class="promise__content--sub-content">Tracking Available</div>
+            </div>
+          </div>
+
+          <div class="promise estimated-delivery">
+            <div class="promise__label">Delivery:</div>
+            <div class="promise__content">Estimated between <span class="emphasize"><span id="est_delivery_min"></span> and <span id="est_delivery_max"></span></span></div>
+          </div>
+        </div>
+        {% comment %} END Promise List {% endcomment %}
+
         {% if section.settings.show_share_buttons %}
           {% include 'social-sharing', share_title: product.title, share_permalink: product.url, share_image: product %}
         {% endif %}
@@ -213,6 +231,20 @@
 {% unless product == empty %}
   <script type="application/json" id="ProductJson-{{ section.id }}">
     {{ product | json }}
+  </script>
+
+  <script type="text/javascript">
+    var minDays = 7;
+    var maxDays = 21;
+
+    var estimatedDeliveryMin = new Date;
+    var estimatedDeliveryMax = new Date;
+    
+    estimatedDeliveryMin.setDate(estimatedDeliveryMin.getDate() + minDays);
+    estimatedDeliveryMax.setDate(estimatedDeliveryMax.getDate() + maxDays);
+
+    document.getElementById('est_delivery_min').innerText = estimatedDeliveryMin.toLocaleDateString("en-US", {month: "short", day: "numeric"})
+    document.getElementById('est_delivery_max').innerText = estimatedDeliveryMax.toLocaleDateString("en-US", {month: "short", day: "numeric"})
   </script>
 {% endunless %}
 
