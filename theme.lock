@@ -34,10 +34,10 @@ assets/vendor.js:
   production: 2018-06-13T00:46:52-06:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
   development: 2018-06-16T06:51:04-06:00   d4467f800578246bafe2d691149434be
-  production: 2018-06-14T22:17:24-06:00   f2f5564898d048b528e1aabe8f3e230b
+  production: 2018-06-16T06:51:38-06:00   d4467f800578246bafe2d691149434be
 config/settings_schema.json:
   development: 2018-06-16T06:46:24-06:00   f2cd798a12d5d321b628419b48b8e5d1
-  production: 2018-06-16T04:15:56-06:00   f436f52fd025dadb4f9e380cb9d81906
+  production: 2018-06-16T06:51:36-06:00   f2cd798a12d5d321b628419b48b8e5d1
 layout/gift_card.liquid:
   development: 2018-06-16T03:28:29-06:00   cf060607763db717a273bdf367f38403
   production: 2018-06-13T00:46:52-06:00   cf060607763db717a273bdf367f38403
@@ -139,7 +139,7 @@ sections/password-header.liquid:
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
   development: 2018-06-16T06:50:17-06:00   1f6d2d0ab5b2c5f8c2b30abc61e2a616
-  production: 2018-06-16T05:15:13-06:00   25c38bd07764c0361b42ebe41f700cae
+  production: 2018-06-16T06:51:36-06:00   1f6d2d0ab5b2c5f8c2b30abc61e2a616
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
   production: 2018-06-16T04:16:09-06:00   70e88d0bab28637bf601aeaf50b6836c
