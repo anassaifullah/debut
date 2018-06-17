@@ -122,8 +122,6 @@ sections/list-collections-template.liquid:
 sections/logo-bar.liquid:
   development: 2018-06-16T03:28:26-06:00   9068a436bb57d2e788194ed01ef9ebe2
   production: 2018-06-16T04:16:38-06:00   9068a436bb57d2e788194ed01ef9ebe2
-sections/loox-all-reviews.liquid:
-  production: 2018-06-17T03:22:39-06:00   90f9dd4333c5db34478a1a6cb1349a4f
 sections/map.liquid:
   development: 2018-06-16T03:28:26-06:00   d50800efe53a8260e3f6926f21cbf77c
   production: 2018-06-16T04:15:49-06:00   d50800efe53a8260e3f6926f21cbf77c
@@ -154,8 +152,6 @@ sections/slideshow.liquid:
 snippets/bgset.liquid:
   development: 2018-06-16T03:28:30-06:00   85889bbc39b57621f32fad66317366fc
   production: 2018-06-13T00:46:52-06:00   85889bbc39b57621f32fad66317366fc
-snippets/bk-tracking.liquid:
-  production: 2018-06-17T02:46:01-06:00   2fb4f4e8f4dadd1237bfeaccb5a47991
 snippets/collection-grid-item.liquid:
   development: 2018-06-16T03:28:30-06:00   a8289cb017c432e34d985124fbbcc6bb
   production: 2018-06-13T00:46:52-06:00   a8289cb017c432e34d985124fbbcc6bb
