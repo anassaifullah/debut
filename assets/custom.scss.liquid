@@ -1,3 +1,6 @@
+// VARS
+$promise-label-width: 22%;
+
 // GLOBAL
 .emphasize {
   font-weight: bolder;
@@ -65,17 +68,14 @@ h3.section__title {
     padding: .25rem 0;
 
     .promise__label {
-      width: 22%;
+      width: $promise-label-width;
       min-width: 5.5rem;
       text-align: end;
     }
 
     .promise__content {
       padding-left: .6rem;
-
-      img {
-        max-height: 1rem;
-      }
+      width: (100% - $promise-label-width);
 
       #geo_location {
         font-style: italic;

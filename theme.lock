@@ -3,8 +3,8 @@ assets/ajax-loader.gif:
   development: 2018-06-16T03:28:27-06:00   deca8b0ecd6974227d157b6d7068995d
   production: 2018-06-13T00:46:50-06:00   deca8b0ecd6974227d157b6d7068995d
 assets/custom.scss.liquid:
-  development: 2018-06-16T22:23:13-06:00   98c358eb66d1a3abad39a1e0afcf28bf
-  production: 2018-06-16T07:38:43-06:00   57d4ef5cdb3c4ea851c43a29cc8263cc
+  development: 2018-06-16T22:37:55-06:00   c4b18d6f717527a9eb8b4d6dfad296e0
+  production: 2018-06-16T22:42:56-06:00   c4b18d6f717527a9eb8b4d6dfad296e0
 assets/gift-card.js:
   development: 2018-06-16T03:28:27-06:00   5f64ba6cb76fbcd82773489d51785bf1
   production: 2018-06-13T00:46:50-06:00   5f64ba6cb76fbcd82773489d51785bf1
@@ -37,7 +37,7 @@ config/settings_data.json:
   production: 2018-06-16T07:38:45-06:00   5baacf980cb76a790a64655c00ec1401
 config/settings_schema.json:
   development: 2018-06-16T18:47:25-06:00   351bb45ebaded19304750a275a4d3ab5
-  production: 2018-06-16T07:38:44-06:00   8fec3d68949483285d9d1b2ca58a7ea9
+  production: 2018-06-16T22:42:56-06:00   351bb45ebaded19304750a275a4d3ab5
 layout/gift_card.liquid:
   development: 2018-06-16T03:28:29-06:00   cf060607763db717a273bdf367f38403
   production: 2018-06-13T00:46:52-06:00   cf060607763db717a273bdf367f38403
@@ -139,7 +139,7 @@ sections/password-header.liquid:
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
   development: 2018-06-16T21:51:38-06:00   99f24f37eba51b59e94f6aaae35fdb8a
-  production: 2018-06-16T07:52:47-06:00   3598ae7b46819f722b32294a1ff9a1ec
+  production: 2018-06-16T22:42:54-06:00   99f24f37eba51b59e94f6aaae35fdb8a
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
   production: 2018-06-16T04:16:09-06:00   70e88d0bab28637bf601aeaf50b6836c
@@ -160,7 +160,7 @@ snippets/comment.liquid:
   production: 2018-06-13T00:46:53-06:00   50406c82467014e1bbe15a62685b2536
 snippets/geo.liquid:
   development: 2018-06-16T21:51:37-06:00   2a14427d99c78cd45d0d8a4d34b2b755
-  production: 2018-06-16T07:52:47-06:00   0d6a459209fa295c2e7e973134ce9adf
+  production: 2018-06-16T22:42:55-06:00   2a14427d99c78cd45d0d8a4d34b2b755
 snippets/icon-amazon_payments.liquid:
   development: 2018-06-16T03:28:30-06:00   f1ad8ba26dd5b98117703ede5357e408
   production: 2018-06-13T00:46:53-06:00   f1ad8ba26dd5b98117703ede5357e408
@@ -336,7 +336,8 @@ snippets/product-price.liquid:
   development: 2018-06-16T03:28:32-06:00   341fd7830f98013dbd0c30ac14b54226
   production: 2018-06-13T00:46:55-06:00   341fd7830f98013dbd0c30ac14b54226
 snippets/promises-list.liquid:
-  development: 2018-06-16T22:23:41-06:00   185ec14ff4964357b847bf4475817e6c
+  development: 2018-06-16T22:41:54-06:00   9994909abf37d8d1473935c20ab0c9cf
+  production: 2018-06-16T22:42:55-06:00   9994909abf37d8d1473935c20ab0c9cf
 snippets/search-form.liquid:
   development: 2018-06-16T03:28:32-06:00   28a50f2542fd28c27fd3eb50ae816c46
   production: 2018-06-13T00:46:55-06:00   28a50f2542fd28c27fd3eb50ae816c46
