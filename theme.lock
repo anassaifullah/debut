@@ -3,7 +3,7 @@ assets/ajax-loader.gif:
   development: 2018-06-16T03:28:27-06:00   deca8b0ecd6974227d157b6d7068995d
   production: 2018-06-13T00:46:50-06:00   deca8b0ecd6974227d157b6d7068995d
 assets/custom.scss.liquid:
-  development: 2018-06-16T07:19:02-06:00   57d4ef5cdb3c4ea851c43a29cc8263cc
+  development: 2018-06-16T22:23:13-06:00   98c358eb66d1a3abad39a1e0afcf28bf
   production: 2018-06-16T07:38:43-06:00   57d4ef5cdb3c4ea851c43a29cc8263cc
 assets/gift-card.js:
   development: 2018-06-16T03:28:27-06:00   5f64ba6cb76fbcd82773489d51785bf1
@@ -138,7 +138,7 @@ sections/password-header.liquid:
   development: 2018-06-16T03:28:26-06:00   71d055e33d7b32bbd41d53eb6afd59f1
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
-  development: 2018-06-16T07:52:46-06:00   3598ae7b46819f722b32294a1ff9a1ec
+  development: 2018-06-16T21:51:38-06:00   99f24f37eba51b59e94f6aaae35fdb8a
   production: 2018-06-16T07:52:47-06:00   3598ae7b46819f722b32294a1ff9a1ec
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
@@ -159,7 +159,7 @@ snippets/comment.liquid:
   development: 2018-06-16T03:28:30-06:00   50406c82467014e1bbe15a62685b2536
   production: 2018-06-13T00:46:53-06:00   50406c82467014e1bbe15a62685b2536
 snippets/geo.liquid:
-  development: 2018-06-16T07:52:48-06:00   0d6a459209fa295c2e7e973134ce9adf
+  development: 2018-06-16T21:51:37-06:00   2a14427d99c78cd45d0d8a4d34b2b755
   production: 2018-06-16T07:52:47-06:00   0d6a459209fa295c2e7e973134ce9adf
 snippets/icon-amazon_payments.liquid:
   development: 2018-06-16T03:28:30-06:00   f1ad8ba26dd5b98117703ede5357e408
@@ -335,6 +335,8 @@ snippets/product-card-list.liquid:
 snippets/product-price.liquid:
   development: 2018-06-16T03:28:32-06:00   341fd7830f98013dbd0c30ac14b54226
   production: 2018-06-13T00:46:55-06:00   341fd7830f98013dbd0c30ac14b54226
+snippets/promises-list.liquid:
+  development: 2018-06-16T22:23:41-06:00   185ec14ff4964357b847bf4475817e6c
 snippets/search-form.liquid:
   development: 2018-06-16T03:28:32-06:00   28a50f2542fd28c27fd3eb50ae816c46
   production: 2018-06-13T00:46:55-06:00   28a50f2542fd28c27fd3eb50ae816c46
