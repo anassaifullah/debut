@@ -34,10 +34,10 @@ assets/vendor.js:
   production: 2018-06-13T00:46:52-06:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
   development: 2018-06-16T22:52:38-06:00   b7a08708ca45d6046a479dd7746dd205
-  production: 2018-06-16T07:38:45-06:00   5baacf980cb76a790a64655c00ec1401
+  production: 2018-06-17T03:40:25-06:00   b7a08708ca45d6046a479dd7746dd205
 config/settings_schema.json:
   development: 2018-06-16T22:51:49-06:00   9e1955694e11bef6b0652bc09ebae90a
-  production: 2018-06-16T22:44:22-06:00   f3e90620cfda5e868dd67ab560b1257d
+  production: 2018-06-17T03:40:23-06:00   9e1955694e11bef6b0652bc09ebae90a
 layout/gift_card.liquid:
   development: 2018-06-16T03:28:29-06:00   cf060607763db717a273bdf367f38403
   production: 2018-06-13T00:46:52-06:00   cf060607763db717a273bdf367f38403
@@ -46,7 +46,7 @@ layout/password.liquid:
   production: 2018-06-13T00:46:52-06:00   33633e5bb77c086ac3dc468153bcea2e
 layout/theme.liquid:
   development: 2018-06-16T03:28:29-06:00   00106d8e8c52826cf65c8bb327ca31f3
-  production: 2018-06-17T03:22:38-06:00   357af218e51edeafca2462e6a5f022af
+  production: 2018-06-17T03:40:24-06:00   00106d8e8c52826cf65c8bb327ca31f3
 locales/de.json:
   development: 2018-06-16T03:28:29-06:00   faabf64e5370b2689d001b57ec4d4d1d
   production: 2018-06-16T04:15:54-06:00   faabf64e5370b2689d001b57ec4d4d1d
@@ -79,7 +79,7 @@ sections/blog-template.liquid:
   production: 2018-06-13T00:46:48-06:00   b271843a318751c33bb4804eee7c1479
 sections/cart-template.liquid:
   development: 2018-06-16T03:28:25-06:00   4f69dd16b97a295881fd57a6cc511fbf
-  production: 2018-06-17T02:46:02-06:00   0a1113795a9f822bb8187d6a7d208f47
+  production: 2018-06-17T03:40:22-06:00   4f69dd16b97a295881fd57a6cc511fbf
 sections/collection-list.liquid:
   development: 2018-06-16T03:28:25-06:00   52e8d8f67436376a7898e66e01e3093a
   production: 2018-06-16T04:16:26-06:00   52e8d8f67436376a7898e66e01e3093a
@@ -139,7 +139,7 @@ sections/password-header.liquid:
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
   development: 2018-06-16T21:51:38-06:00   99f24f37eba51b59e94f6aaae35fdb8a
-  production: 2018-06-17T03:22:40-06:00   2dba4c517d4771b00741343c5687d118
+  production: 2018-06-17T03:40:23-06:00   99f24f37eba51b59e94f6aaae35fdb8a
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
   production: 2018-06-16T04:16:09-06:00   70e88d0bab28637bf601aeaf50b6836c
@@ -337,7 +337,7 @@ snippets/product-price.liquid:
   production: 2018-06-13T00:46:55-06:00   341fd7830f98013dbd0c30ac14b54226
 snippets/promises-list.liquid:
   development: 2018-06-16T22:53:53-06:00   40d1532da074668440843aabc694ee0f
-  production: 2018-06-16T22:42:55-06:00   9994909abf37d8d1473935c20ab0c9cf
+  production: 2018-06-17T03:40:22-06:00   40d1532da074668440843aabc694ee0f
 snippets/search-form.liquid:
   development: 2018-06-16T03:28:32-06:00   28a50f2542fd28c27fd3eb50ae816c46
   production: 2018-06-13T00:46:55-06:00   28a50f2542fd28c27fd3eb50ae816c46
