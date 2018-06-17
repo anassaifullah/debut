@@ -1,4 +1,12 @@
-<script type="text/javascript">
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 
+<script type="text/javascript">
+axios.get('http://api.ipstack.com/check?access_key={{ settings.ipstack_api_key }}')
+    .then(function (response) { 
+        return response.data;
+    })
+    .then(function (data) {
+        document.getElementById('geo_location').innerHTML = 'to ' + data.city + ', ' + data.country_code;
+    });
 
 </script>

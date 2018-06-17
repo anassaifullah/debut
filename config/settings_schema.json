@@ -497,6 +497,11 @@
     "settings": [
       {
         "type": "text",
+        "id": "ipstack_api_key",
+        "label": "IP Stack API Key"
+      },
+      {
+        "type": "text",
         "id": "est_delivery_min_days",
         "label": {
           "en": "Min Days"
@@ -514,18 +519,6 @@
         "info": {
           "en": "Maximum Delivery Days"
         }
-      }
-    ]
-  },
-  {
-    "name": {
-      "en": "GEO IP"
-    },
-    "settings": [
-      {
-        "type": "text",
-        "id": "ipstack_api_key",
-        "label": "IP Stack API Key"
       }
     ]
   }

@@ -188,7 +188,7 @@
           <div class="promise shipping-policy">
             <div class="promise__label">Shipping:</div>
             <div class="promise__content">
-              <div><span class="emphasize">FREE</span> Standard Shipping to the United States</div>
+              <div><span class="emphasize">FREE </span>Standard Shipping <span id="geo_location"></span></div>
               <div class="promise__content--sub-content">Tracking Available</div>
             </div>
           </div>
@@ -246,6 +246,8 @@
     document.getElementById('est_delivery_min').innerText = estimatedDeliveryMin.toLocaleDateString("en-US", {month: "short", day: "numeric"})
     document.getElementById('est_delivery_max').innerText = estimatedDeliveryMax.toLocaleDateString("en-US", {month: "short", day: "numeric"})
   </script>
+
+  {% include 'geo' %}
 {% endunless %}
 
 {% schema %}
