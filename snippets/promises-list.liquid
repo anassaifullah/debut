@@ -4,7 +4,8 @@
         <div class="promise__label">Shipping:</div>
         <div class="promise__content">
             <div>
-                <span class="emphasize">FREE </span>Standard Shipping
+                {% if current_variant.weight == 0 %}<span class="emphasize">FREE</span>{% endif %}
+                Standard Shipping
                 <span id="geo_location"></span>
             </div>
             <div class="promise__content--sub-content">Tracking Available</div>
@@ -53,11 +54,3 @@
         </div>
     </div>
 </div>
-
-<script type="text/javascript">
-
-console.log({{ settings.guarantee_image }});
-console.log({{ settings.payments_image }});
-console.log({{ settings.guarantee_details_page }});
-
-</script>
