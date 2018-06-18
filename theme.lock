@@ -34,7 +34,7 @@ assets/vendor.js:
   production: 2018-06-13T00:46:52-06:00   465fb5b94497c1cdcd55ba6cb04ffeb2
 config/settings_data.json:
   development: 2018-06-17T22:37:28-06:00   a95c67ee8c93d9029890ef98043c1bc6
-  production: 2018-06-17T03:40:25-06:00   b7a08708ca45d6046a479dd7746dd205
+  production: 2018-06-17T22:38:46-06:00   a95c67ee8c93d9029890ef98043c1bc6
 config/settings_schema.json:
   development: 2018-06-16T22:51:49-06:00   9e1955694e11bef6b0652bc09ebae90a
   production: 2018-06-17T03:40:23-06:00   9e1955694e11bef6b0652bc09ebae90a
@@ -138,8 +138,8 @@ sections/password-header.liquid:
   development: 2018-06-16T03:28:26-06:00   71d055e33d7b32bbd41d53eb6afd59f1
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
-  development: 2018-06-17T22:14:28-06:00   0361b14f37a2fabe463f7e2fef210261
-  production: 2018-06-17T22:14:28-06:00   0361b14f37a2fabe463f7e2fef210261
+  development: 2018-06-17T22:38:45-06:00   0ee94cfb52ab4b23756e258b829c423b
+  production: 2018-06-17T22:38:45-06:00   0ee94cfb52ab4b23756e258b829c423b
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
   production: 2018-06-16T04:16:09-06:00   70e88d0bab28637bf601aeaf50b6836c
