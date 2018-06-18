@@ -3,7 +3,7 @@ assets/ajax-loader.gif:
   development: 2018-06-16T03:28:27-06:00   deca8b0ecd6974227d157b6d7068995d
   production: 2018-06-13T00:46:50-06:00   deca8b0ecd6974227d157b6d7068995d
 assets/custom.scss.liquid:
-  development: 2018-06-16T22:37:55-06:00   c4b18d6f717527a9eb8b4d6dfad296e0
+  development: 2018-06-18T03:08:34-06:00   b4ec079c8d0a866b4075e6b61e3bfd79
   production: 2018-06-16T22:42:56-06:00   c4b18d6f717527a9eb8b4d6dfad296e0
 assets/gift-card.js:
   development: 2018-06-16T03:28:27-06:00   5f64ba6cb76fbcd82773489d51785bf1
@@ -46,30 +46,30 @@ layout/password.liquid:
   production: 2018-06-13T00:46:52-06:00   33633e5bb77c086ac3dc468153bcea2e
 layout/theme.liquid:
   development: 2018-06-18T02:50:21-06:00   90407f3e5614150d9f4bd57d6bab7007
-  production: 2018-06-17T21:56:18-06:00   00106d8e8c52826cf65c8bb327ca31f3
+  production: 2018-06-18T02:49:46-06:00   90407f3e5614150d9f4bd57d6bab7007
 locales/de.json:
-  development: 2018-06-16T03:28:29-06:00   faabf64e5370b2689d001b57ec4d4d1d
+  development: 2018-06-18T02:51:57-06:00   faabf64e5370b2689d001b57ec4d4d1d
   production: 2018-06-16T04:15:54-06:00   faabf64e5370b2689d001b57ec4d4d1d
 locales/en.default.json:
-  development: 2018-06-16T03:28:29-06:00   0af079b5eccf73b32f10849a45db9a2b
+  development: 2018-06-18T02:52:33-06:00   0af079b5eccf73b32f10849a45db9a2b
   production: 2018-06-16T04:16:18-06:00   0af079b5eccf73b32f10849a45db9a2b
 locales/es.json:
-  development: 2018-06-16T03:28:29-06:00   0d3679382a74e329a9b5b213f8e46b0a
+  development: 2018-06-18T02:52:27-06:00   0d3679382a74e329a9b5b213f8e46b0a
   production: 2018-06-16T04:16:11-06:00   0d3679382a74e329a9b5b213f8e46b0a
 locales/fr.json:
-  development: 2018-06-16T03:28:29-06:00   a29b7eae792efe5e4ca19b056df37f7c
+  development: 2018-06-18T02:53:16-06:00   a29b7eae792efe5e4ca19b056df37f7c
   production: 2018-06-16T04:16:43-06:00   a29b7eae792efe5e4ca19b056df37f7c
 locales/it.json:
-  development: 2018-06-16T03:28:29-06:00   3b640eb96ff1a182e3a70d1536922ffc
+  development: 2018-06-18T02:52:00-06:00   3b640eb96ff1a182e3a70d1536922ffc
   production: 2018-06-16T04:16:34-06:00   3b640eb96ff1a182e3a70d1536922ffc
 locales/ja.json:
-  development: 2018-06-16T03:28:30-06:00   58e6ce5738eb4f46b884567df905534c
+  development: 2018-06-18T02:52:16-06:00   58e6ce5738eb4f46b884567df905534c
   production: 2018-06-16T04:16:19-06:00   58e6ce5738eb4f46b884567df905534c
 locales/pt-BR.json:
-  development: 2018-06-16T03:28:30-06:00   793ce446ea3a1dc7b6c6d9e4abe81309
+  development: 2018-06-18T02:52:40-06:00   793ce446ea3a1dc7b6c6d9e4abe81309
   production: 2018-06-16T04:16:21-06:00   793ce446ea3a1dc7b6c6d9e4abe81309
 locales/pt-PT.json:
-  development: 2018-06-16T03:28:30-06:00   a89bd4fcaffa844ee2f10d03e512180a
+  development: 2018-06-18T02:52:12-06:00   a89bd4fcaffa844ee2f10d03e512180a
   production: 2018-06-16T04:16:36-06:00   a89bd4fcaffa844ee2f10d03e512180a
 sections/article-template.liquid:
   development: 2018-06-16T03:28:25-06:00   ccfd28597ea1b8927b03262a3a1f248b
@@ -124,6 +124,7 @@ sections/logo-bar.liquid:
   production: 2018-06-16T04:16:38-06:00   9068a436bb57d2e788194ed01ef9ebe2
 sections/loox-all-reviews.liquid:
   development: 2018-06-18T02:50:21-06:00   90f9dd4333c5db34478a1a6cb1349a4f
+  production: 2018-06-17T03:22:39-06:00   90f9dd4333c5db34478a1a6cb1349a4f
 sections/map.liquid:
   development: 2018-06-16T03:28:26-06:00   d50800efe53a8260e3f6926f21cbf77c
   production: 2018-06-16T04:15:49-06:00   d50800efe53a8260e3f6926f21cbf77c
@@ -140,8 +141,8 @@ sections/password-header.liquid:
   development: 2018-06-16T03:28:26-06:00   71d055e33d7b32bbd41d53eb6afd59f1
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
-  development: 2018-06-18T02:50:22-06:00   ae520f96171e42e2dbe3e4dab1b785ad
-  production: 2018-06-17T22:38:45-06:00   0ee94cfb52ab4b23756e258b829c423b
+  development: 2018-06-18T02:54:59-06:00   565b28dd440c258fe775b28757651d60
+  production: 2018-06-18T02:52:36-06:00   ae520f96171e42e2dbe3e4dab1b785ad
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c
   production: 2018-06-16T04:16:09-06:00   70e88d0bab28637bf601aeaf50b6836c
@@ -335,7 +336,7 @@ snippets/product-card-list.liquid:
   development: 2018-06-16T03:28:32-06:00   a66f3cbd9633bfaf5a4db7a83f2eacf1
   production: 2018-06-13T00:46:55-06:00   a66f3cbd9633bfaf5a4db7a83f2eacf1
 snippets/product-price.liquid:
-  development: 2018-06-16T03:28:32-06:00   341fd7830f98013dbd0c30ac14b54226
+  development: 2018-06-18T02:57:18-06:00   006394bf4ecd231bde6d11b2cb67574e
   production: 2018-06-13T00:46:55-06:00   341fd7830f98013dbd0c30ac14b54226
 snippets/promises-list.liquid:
   development: 2018-06-17T23:39:30-06:00   da194c26273a7de66ace89dbd587bff3

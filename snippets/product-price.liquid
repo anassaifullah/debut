@@ -11,6 +11,8 @@
 
 {%- assign money_price = price | money -%}
 
+<a href="#looxReviews"><div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-raters="{{ product.metafields.loox.num_reviews }}"></div></a>
+
 <dl class="price{% if compare_at_price > price %} price--on-sale{% endif %}" data-price>
 
   {% if section.settings.show_vendor %}
