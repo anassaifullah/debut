@@ -336,8 +336,8 @@ snippets/product-price.liquid:
   development: 2018-06-16T03:28:32-06:00   341fd7830f98013dbd0c30ac14b54226
   production: 2018-06-13T00:46:55-06:00   341fd7830f98013dbd0c30ac14b54226
 snippets/promises-list.liquid:
-  development: 2018-06-17T23:35:03-06:00   c9f9bfafac1314e7525e569fce0dd4d0
-  production: 2018-06-17T23:36:08-06:00   c9f9bfafac1314e7525e569fce0dd4d0
+  development: 2018-06-17T23:39:30-06:00   da194c26273a7de66ace89dbd587bff3
+  production: 2018-06-17T23:39:29-06:00   da194c26273a7de66ace89dbd587bff3
 snippets/search-form.liquid:
   development: 2018-06-16T03:28:32-06:00   28a50f2542fd28c27fd3eb50ae816c46
   production: 2018-06-13T00:46:55-06:00   28a50f2542fd28c27fd3eb50ae816c46
