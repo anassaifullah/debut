@@ -45,7 +45,7 @@ layout/password.liquid:
   development: 2018-06-16T03:28:29-06:00   33633e5bb77c086ac3dc468153bcea2e
   production: 2018-06-13T00:46:52-06:00   33633e5bb77c086ac3dc468153bcea2e
 layout/theme.liquid:
-  development: 2018-06-16T03:28:29-06:00   00106d8e8c52826cf65c8bb327ca31f3
+  development: 2018-06-18T02:50:21-06:00   90407f3e5614150d9f4bd57d6bab7007
   production: 2018-06-17T21:56:18-06:00   00106d8e8c52826cf65c8bb327ca31f3
 locales/de.json:
   development: 2018-06-16T03:28:29-06:00   faabf64e5370b2689d001b57ec4d4d1d
@@ -122,6 +122,8 @@ sections/list-collections-template.liquid:
 sections/logo-bar.liquid:
   development: 2018-06-16T03:28:26-06:00   9068a436bb57d2e788194ed01ef9ebe2
   production: 2018-06-16T04:16:38-06:00   9068a436bb57d2e788194ed01ef9ebe2
+sections/loox-all-reviews.liquid:
+  development: 2018-06-18T02:50:21-06:00   90f9dd4333c5db34478a1a6cb1349a4f
 sections/map.liquid:
   development: 2018-06-16T03:28:26-06:00   d50800efe53a8260e3f6926f21cbf77c
   production: 2018-06-16T04:15:49-06:00   d50800efe53a8260e3f6926f21cbf77c
@@ -138,7 +140,7 @@ sections/password-header.liquid:
   development: 2018-06-16T03:28:26-06:00   71d055e33d7b32bbd41d53eb6afd59f1
   production: 2018-06-16T04:16:41-06:00   71d055e33d7b32bbd41d53eb6afd59f1
 sections/product-template.liquid:
-  development: 2018-06-17T23:26:12-06:00   0ee94cfb52ab4b23756e258b829c423b
+  development: 2018-06-18T02:50:22-06:00   ae520f96171e42e2dbe3e4dab1b785ad
   production: 2018-06-17T22:38:45-06:00   0ee94cfb52ab4b23756e258b829c423b
 sections/quotes.liquid:
   development: 2018-06-16T03:28:26-06:00   70e88d0bab28637bf601aeaf50b6836c

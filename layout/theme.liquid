@@ -77,6 +77,8 @@
   <!--[if lte IE 9]><script src="{{ 'theme.js' | asset_url }}"></script><![endif]-->
 
   {{ content_for_header }}
+
+	{{ shop.metafields.loox["global_html_head"] }}
 </head>
 
 <body class="template-{{ template | split: '.' | first }}">
@@ -128,5 +130,7 @@
     })();
   </script>
   {% comment %} END Klaviyo {% endcomment %}
+
+	{{ shop.metafields.loox["global_html_body"] }}
 </body>
 </html>
