@@ -83,7 +83,7 @@
         "type": "footer",
         "settings": {
           "footer_linklist": "footer",
-          "footer_linklist_two": "",
+          "footer_linklist_two": "second-column-footer",
           "footer_newsletter_enable": true,
           "footer_newsletter_subheading": "<p>Keep up to date of&nbsp;<strong>AWESOME<\/strong>&nbsp;gifts weekly.<\/p>",
           "show_payment_icons": true
