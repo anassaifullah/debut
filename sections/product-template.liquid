@@ -13,8 +13,11 @@
   {%- assign enable_zoom = section.settings.enable_zoom -%}
   {%- assign price = current_variant.price -%}
   {%- assign compare_at_price = current_variant.compare_at_price -%}
-  {%- assign saved_amount = current_variant.compare_at_price | minus: current_variant.price -%}
-  {%- assign saved_percent = current_variant.compare_at_price | minus: current_variant.price | times: 100.0 | divided_by: current_variant.compare_at_price | round -%}
+
+  {% if compare_at_price > price %}
+    {%- assign saved_amount = current_variant.compare_at_price | minus: current_variant.price -%}
+    {%- assign saved_percent = current_variant.compare_at_price | minus: current_variant.price | times: 100.0 | divided_by: current_variant.compare_at_price | round -%}
+  {% endif %}
 
   {% case section.settings.image_size %}
     {% when 'small' %}
@@ -112,10 +115,10 @@
 
           <div class="product__price">
             {% include 'product-price', variant: current_variant %}
-            {% if saved_amount > 0 %}
-            <div class="saved_notice">
-              You save: <span class="emphasize">{{ saved_amount | money }} ({{ saved_percent }}%)</span>. Don't miss out!
-            </div>
+            {% if compare_at_price > price %}
+              <div class="saved_notice">
+                You save: <span class="emphasize">{{ saved_amount | money }} ({{ saved_percent }}%)</span>. Don't miss out!
+              </div>
             {% endif %}
           </div>
 
