@@ -11,6 +11,13 @@ $promise-label-width: 22%;
 }
 // END GLOBAL
 
+// Fix Nav Overflow on Mobile
+@media screen and (max-width: 749px) {
+  .site-header__icon {
+    padding: calc(12rem / 18);
+  }
+}
+
 .product-single__title {
   font-size: 1.65rem;
 }
@@ -60,7 +67,7 @@ h3.section__title {
 
 .product-card {
   .loox-rating {
-    font-size: 0.90rem;
+    font-size: 0.9rem;
   }
 }
 

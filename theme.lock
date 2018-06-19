@@ -3,8 +3,8 @@ assets/ajax-loader.gif:
   development: 2018-06-16T03:28:27-06:00   deca8b0ecd6974227d157b6d7068995d
   production: 2018-06-13T00:46:50-06:00   deca8b0ecd6974227d157b6d7068995d
 assets/custom.scss.liquid:
-  development: 2018-06-18T03:08:34-06:00   b4ec079c8d0a866b4075e6b61e3bfd79
-  production: 2018-06-18T03:09:06-06:00   b4ec079c8d0a866b4075e6b61e3bfd79
+  development: 2018-06-19T00:10:55-06:00   28ef0d84bf70c134b3de89bf6a6b1654
+  production: 2018-06-19T00:11:34-06:00   28ef0d84bf70c134b3de89bf6a6b1654
 assets/gift-card.js:
   development: 2018-06-16T03:28:27-06:00   5f64ba6cb76fbcd82773489d51785bf1
   production: 2018-06-13T00:46:50-06:00   5f64ba6cb76fbcd82773489d51785bf1
