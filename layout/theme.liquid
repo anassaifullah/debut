@@ -79,7 +79,9 @@
   {{ content_for_header }}
 
 	{{ shop.metafields.loox["global_html_head"] }}
-{% include "trackify" %}</head>
+  
+  {% include "trackify" %}
+</head>
 
 <body class="template-{{ template | split: '.' | first }}">
 
@@ -132,5 +134,21 @@
   {% comment %} END Klaviyo {% endcomment %}
 
 	{{ shop.metafields.loox["global_html_body"] }}
+
+  <!-- Drip -->
+  <script type="text/javascript">
+    var _dcq = _dcq || [];
+    var _dcs = _dcs || {};
+    _dcs.account = '9602784';
+
+    (function() {
+      var dc = document.createElement('script');
+      dc.type = 'text/javascript'; dc.async = true;
+      dc.src = '//tag.getdrip.com/9602784.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(dc, s);
+    })();
+  </script>
+  <!-- end Drip -->
 </body>
 </html>

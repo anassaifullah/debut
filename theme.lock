@@ -45,8 +45,8 @@ layout/password.liquid:
   development: 2018-06-16T03:28:29-06:00   33633e5bb77c086ac3dc468153bcea2e
   production: 2018-06-13T00:46:52-06:00   33633e5bb77c086ac3dc468153bcea2e
 layout/theme.liquid:
-  development: 2018-06-18T02:50:21-06:00   90407f3e5614150d9f4bd57d6bab7007
-  production: 2018-06-18T02:49:46-06:00   90407f3e5614150d9f4bd57d6bab7007
+  development: 2018-06-20T00:44:14-06:00   233f3bcdffe46977c4f67fb70e420176
+  production: 2018-06-19T02:33:26-06:00   233f3bcdffe46977c4f67fb70e420176
 locales/de.json:
   development: 2018-06-18T02:51:57-06:00   faabf64e5370b2689d001b57ec4d4d1d
   production: 2018-06-16T04:15:54-06:00   faabf64e5370b2689d001b57ec4d4d1d
@@ -353,6 +353,9 @@ snippets/social-meta-tags.liquid:
 snippets/social-sharing.liquid:
   development: 2018-06-16T03:28:32-06:00   011dd5c58fa718c8016b784f2d9fa92b
   production: 2018-06-13T00:46:55-06:00   011dd5c58fa718c8016b784f2d9fa92b
+snippets/trackify.liquid:
+  development: 2018-06-20T00:44:13-06:00   bc90c4215e16fd4b74e62dbf6c6a10e7
+  production: 2018-06-19T02:33:25-06:00   bc90c4215e16fd4b74e62dbf6c6a10e7
 templates/404.liquid:
   development: 2018-06-16T03:28:32-06:00   805b16263cdf5c85be9c507ad6b03623
   production: 2018-06-13T00:46:55-06:00   805b16263cdf5c85be9c507ad6b03623
