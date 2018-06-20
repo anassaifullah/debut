@@ -45,8 +45,8 @@ layout/password.liquid:
   development: 2018-06-16T03:28:29-06:00   33633e5bb77c086ac3dc468153bcea2e
   production: 2018-06-13T00:46:52-06:00   33633e5bb77c086ac3dc468153bcea2e
 layout/theme.liquid:
-  development: 2018-06-20T00:44:14-06:00   233f3bcdffe46977c4f67fb70e420176
-  production: 2018-06-19T02:33:26-06:00   233f3bcdffe46977c4f67fb70e420176
+  development: 2018-06-20T00:45:01-06:00   1b7f3d7509d97ad770affa33d9d4dedd
+  production: 2018-06-20T00:45:02-06:00   1b7f3d7509d97ad770affa33d9d4dedd
 locales/de.json:
   development: 2018-06-18T02:51:57-06:00   faabf64e5370b2689d001b57ec4d4d1d
   production: 2018-06-16T04:15:54-06:00   faabf64e5370b2689d001b57ec4d4d1d
