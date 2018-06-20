@@ -108,3 +108,9 @@
   }]);
 </script>
 {% comment %} END Klaviyo {% endcomment %}
+<!-- DRIP_PRODUCT_TRACKING_V1 -->
+<script text="text/javascript">
+  var _dcq = _dcq || [];
+  _dcq.push(['recordProductView', {{ product|json }}, {{ product.collections|map:'id'|json }}, '{{shop.currency}}', '{{ product.url }}']);
+</script>
+<!-- END_DRIP_PRODUCT_TRACKING_V1 -->

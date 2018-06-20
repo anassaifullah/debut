@@ -155,6 +155,8 @@ sections/slideshow.liquid:
 snippets/bgset.liquid:
   development: 2018-06-16T03:28:30-06:00   85889bbc39b57621f32fad66317366fc
   production: 2018-06-13T00:46:52-06:00   85889bbc39b57621f32fad66317366fc
+snippets/bk-tracking.liquid:
+  production: 2018-06-17T02:46:01-06:00   2fb4f4e8f4dadd1237bfeaccb5a47991
 snippets/collection-grid-item.liquid:
   development: 2018-06-16T03:28:30-06:00   a8289cb017c432e34d985124fbbcc6bb
   production: 2018-06-13T00:46:52-06:00   a8289cb017c432e34d985124fbbcc6bb
@@ -412,7 +414,7 @@ templates/password.liquid:
   production: 2018-06-13T00:46:56-06:00   30d1743d26765ce8c3fa53a3fdf9524f
 templates/product.liquid:
   development: 2018-06-16T03:28:33-06:00   c2b8668907fb03d16c63427df4b0f932
-  production: 2018-06-16T02:28:41-06:00   c2b8668907fb03d16c63427df4b0f932
+  production: 2018-06-20T00:46:38-06:00   749475ab19f70465cd0fd1e6b7d27c6d
 templates/search.liquid:
   development: 2018-06-16T03:28:33-06:00   4708878fcc44c64f149120b120b05115
   production: 2018-06-13T00:46:56-06:00   4708878fcc44c64f149120b120b05115
